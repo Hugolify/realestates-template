@@ -19,5 +19,6 @@ require (
 	github.com/hugolify/hugolify-theme-realestates-types v1.0.1 // indirect
 	github.com/hugolify/realestatify-example-site v1.0.1 // indirect
 	github.com/hugolify/realestatify-netlify-cms v1.0.1 // indirect
+	github.com/hugolify/realestatify-theme v1.0.0 // indirect
 	github.com/twbs/bootstrap v5.3.2+incompatible // indirect
 )

@@ -2,7 +2,7 @@
 
 imports:
 - path: github.com/hugolify/realestatify-example-site
-# - path: github.com/hugolify/realestatify-theme
+- path: github.com/hugolify/realestatify-theme
 - path: github.com/hugolify/realestatify-netlify-cms
 - path: github.com/hugolify/hugolify-theme-places
 - path: github.com/hugolify/hugolify-theme-persons-places
