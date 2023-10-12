@@ -10,8 +10,8 @@ github.com/hugolify/hugolify-theme-persons-places v1.1.2 h1:FnLuDhKnV3mnz6hLKsRa
 github.com/hugolify/hugolify-theme-persons-places v1.1.2/go.mod h1:TxpVc04ARzcb1+6iz+pUZ2tuq+gDSfaLWhDMuZDexX8=
 github.com/hugolify/hugolify-theme-places v1.1.1 h1:N8uABF0YpbpjGMpQCyOxdj8Dg1UhxonTb1cl5P8KrIA=
 github.com/hugolify/hugolify-theme-places v1.1.1/go.mod h1:fuG0GddSsGiKFhmtUalHZQY3c6wFIth1G3bA1WJ5q4k=
-github.com/hugolify/hugolify-theme-realestates v1.0.10 h1:jWAKeKw66z7NlTX7uiIg1NFfnVcMMCgxJF4BCQjZolI=
-github.com/hugolify/hugolify-theme-realestates v1.0.10/go.mod h1:edeC6mDKRv9Qyit0xLf2qtKPN+dEj8obqqoqvzLuYTE=
+github.com/hugolify/hugolify-theme-realestates v1.0.11 h1:Dqaf291kTgoaKgaj/8osrSnfa4314p3sVzLvetlyUS4=
+github.com/hugolify/hugolify-theme-realestates v1.0.11/go.mod h1:edeC6mDKRv9Qyit0xLf2qtKPN+dEj8obqqoqvzLuYTE=
 github.com/hugolify/hugolify-theme-realestates-persons v1.0.5 h1:mIGe9DAATHr6+iibqBuy4B6OiuHWbvvzcZ611sD863Y=
 github.com/hugolify/hugolify-theme-realestates-persons v1.0.5/go.mod h1:6Dyew6U0pSm/PlobBbIujAlmQqoJZdZDTL6QOyp2jS8=
 github.com/hugolify/hugolify-theme-realestates-types v1.0.1 h1:tWkFXvrkSzkFk5LTCpC+25Hskx1eHxY77CZeZvHB7zg=
