@@ -4,4 +4,4 @@ persons: /equipe/:slug/
 persons_places: /equipe/agences/:slug/
 realestates: /ventes-immobilieres/:slug/
 realestates_persons: /ventes-immobilieres/agents/:slug/
-realestates_types: /ventes-immobilieres/types/:slug/
+realestates_categories: /ventes-immobilieres/types/:slug/
