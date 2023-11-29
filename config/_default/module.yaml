@@ -1,23 +1,21 @@
 # Hugolify content available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
 
 imports:
+  # Specifi Realestatify
+  - path: github.com/hugolify/realestatify-example-site
+  - path: github.com/hugolify/realestatify-theme
+  - path: github.com/hugolify/realestatify-netlify-cms
 
-# Specifi Realestatify
-- path: github.com/hugolify/realestatify-example-site
-- path: github.com/hugolify/realestatify-theme
-- path: github.com/hugolify/realestatify-netlify-cms
+  # For exampleSite
+  - path: github.com/hugolify/hugolify-theme-places
+  - path: github.com/hugolify/hugolify-theme-persons-places
+  - path: github.com/hugolify/hugolify-theme-persons
+  - path: github.com/hugolify/hugolify-theme-realestates
+  - path: github.com/hugolify/hugolify-theme-realestates-categories
+  - path: github.com/hugolify/hugolify-theme-realestates-persons
 
-# For exampleSite
-- path: github.com/hugolify/hugolify-theme-places
-- path: github.com/hugolify/hugolify-theme-persons-places
-- path: github.com/hugolify/hugolify-theme-persons
-- path: github.com/hugolify/hugolify-theme-realestates
-- path: github.com/hugolify/hugolify-theme-realestates-categories
-- path: github.com/hugolify/hugolify-theme-realestates-persons
+  # Core theme
+  - path: github.com/hugolify/hugolify-theme
 
-# Core theme
-- path: github.com/hugolify/hugolify-theme
-
-# CMS
-- path: github.com/hugolify/hugolify-netlify-cms
-
+  # CMS
+  - path: github.com/hugolify/hugolify-netlify-cms
