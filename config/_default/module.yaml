@@ -1,12 +1,11 @@
 # Hugolify content available https://www.hugolify.io/docs/sections/
 
 imports:
-  # Specifi Realestatify
-  - path: github.com/hugolify/realestatify-example-site
+  # Specific Realestatify
   - path: github.com/hugolify/realestatify-theme
   - path: github.com/hugolify/realestatify-netlify-cms
 
-  # For exampleSite
+  # Sections modules 
   - path: github.com/hugolify/hugolify-theme-places
   - path: github.com/hugolify/hugolify-theme-persons-places
   - path: github.com/hugolify/hugolify-theme-persons
