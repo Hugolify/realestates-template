@@ -6,6 +6,8 @@ github.com/hugolify/hugolify-netlify-cms v1.8.3 h1:Y8PZ/exxZxEaKcmFJyi42culpJeWe
 github.com/hugolify/hugolify-netlify-cms v1.8.3/go.mod h1:Q7HNXBxIatKmA+mlG+3HbWUYApZnftOwFz6kevyg/HU=
 github.com/hugolify/hugolify-theme v1.17.1 h1:0VaejYGVpq6JRxTDHmYnq4XFjmvxLB0XSqfA0FAKUL4=
 github.com/hugolify/hugolify-theme v1.17.1/go.mod h1:yDbH6g0BJAqjueFrZ13u2lC9gWsYuKDFjQirn805zvo=
+github.com/hugolify/hugolify-theme-3 v1.0.12 h1:8gvYJQ6+XHTaeTqIq0uB0AAeVfPLe9OSTwcuLdxQkXw=
+github.com/hugolify/hugolify-theme-3 v1.0.12/go.mod h1:JKuVKJqvUin5iT3GgaHOsZNfq9GuS6xNln4Ue1KKfIA=
 github.com/hugolify/hugolify-theme-persons v1.3.13 h1:0b+3j1gq+C8psa/sKdyuZUmAhhSArw8Xpw4ksr9/OTU=
 github.com/hugolify/hugolify-theme-persons v1.3.13/go.mod h1:LjjY/5pEDk2r3URTU8xS7Sango4D4K9ExU0+OaJwOUA=
 github.com/hugolify/hugolify-theme-persons-places v1.1.3 h1:yKgg4PLAuvXaLEbN3/BZv/y6gZn7eEZ23egYox76MaE=

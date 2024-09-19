@@ -6,7 +6,10 @@ imports:
   - path: github.com/hugolify/realestatify-theme
   - path: github.com/hugolify/realestatify-netlify-cms
 
-  # For exampleSite
+  # Theme 3
+  - path: github.com/hugolify/hugolify-theme-3
+
+  # Sections modules
   - path: github.com/hugolify/hugolify-theme-places
   - path: github.com/hugolify/hugolify-theme-persons-places
   - path: github.com/hugolify/hugolify-theme-persons
