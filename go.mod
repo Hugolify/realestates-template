@@ -15,7 +15,6 @@ require (
 	github.com/hugolify/hugolify-theme-realestates-persons v1.0.6 // indirect
 	github.com/hugolify/realestatify-example-site v1.1.0 // indirect
 	github.com/hugolify/realestatify-netlify-cms v1.1.0 // indirect
-	github.com/hugolify/realestatify-theme v1.0.0 // indirect
 	github.com/midzer/tobii v2.5.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.3+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect

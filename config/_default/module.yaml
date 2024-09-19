@@ -2,7 +2,6 @@
 
 imports:
   # Specific Realestatify
-  - path: github.com/hugolify/realestatify-theme
   - path: github.com/hugolify/realestatify-netlify-cms
 
   # Sections modules 
