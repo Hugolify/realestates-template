@@ -3,7 +3,6 @@
 imports:
   # Specifi Realestatify
   - path: github.com/hugolify/realestatify-example-site
-  - path: github.com/hugolify/realestatify-theme
   - path: github.com/hugolify/realestatify-netlify-cms
 
   # Theme 3
