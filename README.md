@@ -16,6 +16,14 @@ https://theme-1--realestatify-demo.netlify.app/
 
 https://theme-2--realestatify-demo.netlify.app/
 
+### Theme 3
+
+https://theme-3--realestatify-demo.netlify.app/
+
+### Theme 4
+
+https://theme-4--realestatify-demo.netlify.app/
+
 ## Features
 
 Hugo sections available in theme and admin
