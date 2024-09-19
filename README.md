@@ -2,13 +2,6 @@
 
 Is a Github template based to Hugolify
 
-## Table of content
-
-- [Live demo](#live-demo)
-- [Features](#features)
-- [Documentation](#documentation)
-- [License](#license)
-
 ## Live demo
 
 ### Base
@@ -37,7 +30,7 @@ Hugo sections available in theme and admin
 
 ## Documentation
 
-[https://github.com/hugolify/hugolify-template/wiki](https://github.com/hugolify/hugolify-template/wiki)
+https://www.hugolify.io/docs/
 
 ## License
 
