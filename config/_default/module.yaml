@@ -2,15 +2,16 @@
 
 imports:
   # Specific Realestatify
+  - path: github.com/hugolify/realestatify-theme
   - path: github.com/hugolify/realestatify-netlify-cms
 
-  # Sections modules 
+  # Sections modules
   - path: github.com/hugolify/hugolify-theme-places
   - path: github.com/hugolify/hugolify-theme-persons-places
   - path: github.com/hugolify/hugolify-theme-persons
-  - path: github.com/hugolify/hugolify-theme-realestates
   - path: github.com/hugolify/hugolify-theme-realestates-categories
   - path: github.com/hugolify/hugolify-theme-realestates-persons
+  - path: github.com/hugolify/hugolify-theme-realestates
 
   # Core theme
   - path: github.com/hugolify/hugolify-theme
