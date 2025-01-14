@@ -3,7 +3,6 @@
 imports:
   # Specific Realestatify
   - path: github.com/hugolify/realestatify-theme
-  - path: github.com/hugolify/realestatify-netlify-cms
 
   # Sections modules
   - path: github.com/hugolify/hugolify-theme-places
@@ -17,4 +16,4 @@ imports:
   - path: github.com/hugolify/hugolify-theme
 
   # CMS
-  - path: github.com/hugolify/hugolify-netlify-cms
+  - path: github.com/hugolify/hugolify-admin
