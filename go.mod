@@ -9,7 +9,7 @@ require (
 	github.com/hugolify/hugolify-theme-persons v1.3.20 // indirect
 	github.com/hugolify/hugolify-theme-persons-places v1.1.3 // indirect
 	github.com/hugolify/hugolify-theme-places v1.1.9 // indirect
-	github.com/hugolify/hugolify-theme-realestates v1.1.19 // indirect
+	github.com/hugolify/hugolify-theme-realestates v1.1.21 // indirect
 	github.com/hugolify/hugolify-theme-realestates-categories v1.1.5 // indirect
 	github.com/hugolify/hugolify-theme-realestates-persons v1.0.10 // indirect
 	github.com/hugolify/realestatify-example-site v1.1.0 // indirect

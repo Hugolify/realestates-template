@@ -5,3 +5,11 @@ persons_places: /equipe/agences/:slug/
 realestates: /ventes-immobilieres/:slug/
 realestates_persons: /ventes-immobilieres/agents/:slug/
 realestates_categories: /ventes-immobilieres/types/:slug/
+
+section:
+  places: /agences/
+  persons: /equipe/
+  persons_places: /equipe/agences/
+  realestates: /ventes-immobilieres/
+  realestates_persons: /ventes-immobilieres/agents/
+  realestates_categories: /ventes-immobilieres/types/
